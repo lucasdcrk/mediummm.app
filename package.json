@@ -10,9 +10,26 @@
         "production": "mix --production"
     },
     "devDependencies": {
+        "@inertiajs/inertia": "^0.10.0",
+        "@inertiajs/inertia-vue3": "^0.5.1",
+        "@inertiajs/progress": "^0.2.6",
+        "@intlify/vue-i18n-loader": "^3.3.0",
+        "@tailwindcss/forms": "^0.2.1",
+        "@tailwindcss/typography": "^0.3.0",
+        "@vue/compiler-sfc": "^3.0.5",
         "axios": "^0.21",
         "laravel-mix": "^6.0.6",
         "lodash": "^4.17.19",
-        "postcss": "^8.1.14"
+        "postcss": "^8.1.14",
+        "postcss-import": "^12.0.1",
+        "tailwindcss": "^2.0.1",
+        "vue": "^3.0.5",
+        "vue-cli-plugin-i18n": "~2.3.1",
+        "vue-loader": "^16.1.2"
+    },
+    "dependencies": {
+        "@headlessui/vue": "^1.4.1",
+        "@heroicons/vue": "^1.0.5",
+        "@vue/cli-shared-utils": "^4.5.15"
     }
 }
