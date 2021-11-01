@@ -123,10 +123,71 @@
                 faqs: [
                     {
                         id: 1,
-                        question: "What's the best thing about Switzerland?",
-                        answer:
-                            "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+                        question: "What’s the aim of Mediummm?",
+                        answer: "Mediummm is a collaborative learning project based on a flash card system. The goal is to allow you to learn anything effectively.",
                     },
+                    {
+                        id: 2,
+                        question: "Why is the flash card system effective?",
+                        answer: "The flash cards method is an effective and recognized way of enriching one's knowledge durably.\n" +
+                            "The cards are easy to understand because they are simple or are presented with resources such as a diagram or an image. Once learned, they are repeated periodically (longer periods over time) to stay in your head forever.\n"
+                    },
+                    {
+                        id: 3,
+                        question: "Who is the target of the application?",
+                        answer: "Anyone who wants to learn something about a subject without wasting time and without going through unreliable articles or encyclopedias."
+                    },
+                    {
+                        id: 4,
+                        question: "Who creates the content?",
+                        answer: "Card decks are created by volunteers. Anyone can add content to participate in the project and share their knowledge. Some decks are also generated automatically from information found on the web. Significant contributors may also receive counterparties in the form of derivatives."
+                    },
+                    {
+                        id: 5,
+                        question: "Who is judging a deck's effectiveness?",
+                        answer: "Anyone can create content by following our editing guidelines. Any user can therefore also rate a deck they have read."
+                    },
+                    {
+                        id: 6,
+                        question: "Why can we trust Mediummm informations?",
+                        answer: "As explained previously, our editorial guidelines must be followed when creating content. These guidelines state that each fact must be sourced and that the more an idea has diverse and reliable sources, the more it will be put forward. Anyone can create cards as well as modify them if necessary."
+                    },
+                    {
+                        id: 7,
+                        question: "Can I create private cards?",
+                        answer: "Absolutely, in addition to public cards, which must respect our editorial guidelines, you can create cards that are only accessible by you and the people to whom you have shared them."
+                    },
+                    {
+                        id: 8,
+                        question: "Is Mediummm free?",
+                        answer: "Mediummm's cards and information will always be accessible free of charge without limitation in the number of consultations, you can also share them without restriction. However, some features of the app are paid."
+                    },
+                    {
+                        id: 9,
+                        question: "How is the project viable?",
+                        answer: "Mediummm is a collaborative project, its viability is ensured through donations, sales of  goodies (such as physical decks) as well as some discreet advertising."
+                    },
+                    {
+                        id: 10,
+                        question: "What topics are covered on the app?",
+                        answer: "All themes are welcome on the app as long as they respect our editorial guidelines.\n" +
+                        "Initially, Mediumm will focus on specific topics in order to be able to guarantee content."
+                    },
+                    {
+                        id: 11,
+                        question: "How to access Mediummm?",
+                        answer: "The project is still being created, however, you’ll just have to download the application to enjoy it. You can now give us your email address so that we can contact you when Mediummm is launched."
+                    },
+                    {
+                        id: 12,
+                        question: "How to participate in the project?",
+                        answer: "You can support us for free by creating articles, correcting them, rating them, verifying sources or improving their effectiveness. You can also support us financially by donating or buying derivative products."
+                    },
+                    {
+                        id: 13,
+                        question: "When will Mediummm become accessible?",
+                        answer: "The best way to stay informed of Mediummm’s release is to enter your email address at the top of the page (we promise not to spam you)."
+                    }
                 ]
             }
         }

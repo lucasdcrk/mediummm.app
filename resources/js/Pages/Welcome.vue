@@ -123,10 +123,74 @@ export default defineComponent({
             faqs: [
                 {
                     id: 1,
-                    question: "What's the best thing about Switzerland?",
-                    answer:
-                        "I don't know, but the flag is a big plus. Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas cupiditate laboriosam fugiat.",
+                    question: "Quel est l’objectif de Mediummm ?",
+                    answer: "Mediummm c’est un projet collaboratif de d'apprentissage basé sur un système de cartes mémoire. L'objectif c’est de vous permettre d’apprendre n’importe quoi de manière efficace.",
                 },
+                {
+                    id: 2,
+                    question: "Pourquoi le système de cartes mémoire est-il efficace ?",
+                    answer: "La méthode des cartes mémoire (ou flash cards) est un moyen efficace et reconnu d’enrichir ses connaissances mais surtout de les conserver.\n" +
+                        "Les cartes sont facilement compréhensibles car simples ou accompagnées de ressources comme un schéma ou une image. Une fois apprises, elles sont répétées périodiquement (sur des durées de plus en plus grandes) pour rester durablement dans votre tête."
+                },
+                {
+                    id: 3,
+                    question: "A qui s’adresse l’application ?",
+                    answer: "Tous ceux qui souhaitent apprendre des choses sur un sujet sans perdre de temps et sans passer par des encyclopédies ou des articles peu fiables."
+                },
+                {
+                    id: 4,
+                    question: "Qui crée le contenu ?",
+                    answer: "Les decks de cartes sont créés par des utilisateurs bénévoles. N’importe qui peut ajouter du contenu pour participer au projet et partager ses connaissances. Certains decks sont aussi générés automatiquement à partir d'informations trouvables sur le web. \n" +
+                        "Les contributeurs importants peuvent aussi recevoir des contreparties sous forme de produits dérivés."
+                },
+                {
+                    id: 5,
+                    question: "Qui juge l’efficacité de ces cartes ?",
+                    answer: "Tout le monde peut créer du contenu en suivant nos règles d’édition. N’importe quel utilisateur peut donc aussi donner une note à un deck qu’il a consulté pour témoigner de son efficacité."
+                },
+                {
+                    id: 6,
+                    question: "Comment s’assurer de la fiabilité des informations ?",
+                    answer: "Comme expliqué précédemment, notre charte éditoriale doit être suivie lors de la création de contenu. Cette dernière implique que chaque fait avancé doit être sourcé et que plus une idée possède de sources diverses et fiables, plus elle sera mise en avant. N’importe qui peut créer des cartes mais aussi les modifier si nécessaire."
+                },
+                {
+                    id: 7,
+                    question: "Puis-je créer des cartes privées ?",
+                    answer: "Tout à fait, en plus des cartes publiques, qui doivent respecter notre charte éditoriale, vous pouvez créer des cartes uniquement accessibles par vous et les personnes à qui vous les avez partagées."
+                },
+                {
+                    id: 8,
+                    question: "C’est gratuit ?",
+                    answer: "Les cartes et informations de Mediummm seront toujours accessibles gratuitement sans limitation dans le nombre de consultations, vous pouvez aussi les partager sans restriction. Certaines fonctionnalités de l’app sont payantes."
+                },
+                {
+                    id: 9,
+                    question: "Comment le projet est-il viable ?",
+                    answer: "Mediummm est un projet collaboratif, sa viabilité est assurée via des dons, des ventes de produits dérivés (goodies, decks physiques) ainsi que quelques publicités discrètes."
+                },
+                {
+                    id: 10,
+                    question: "Quels thèmes sont abordés sur l’app ?",
+                    answer: "Tous les thèmes sont les bienvenus sur l’application du moment qu’ils respectent notre charte éditoriale.\n" +
+                        "Dans un premier temps, Mediumm se concentrera sur des sujets spécifiques afin de pouvoir garantir du contenu."
+                },
+                {
+                    id: 11,
+                    question: "Comment accéder à Mediummm ?",
+                    answer: "Le projet est encore en cours de création, il suffira cependant de télécharger l’application pour en profiter.\n" +
+                        "Vous pouvez dès à présent nous donner notre adresse mail afin que nous vous contactions lors du lancement de Mediummm."
+                },
+                {
+                    id: 12,
+                    question: "Comment participer au projet ?",
+                    answer: "Pour nous soutenir gratuitement, vous pouvez créer des articles, les corriger, les noter, vérifier les sources ou encore améliorer leur efficacité.\n" +
+                        "Vous pouvez aussi nous soutenir financièrement en faisant un don ou en achetant des produits dérivés."
+                },
+                {
+                    id: 13,
+                    question: "Quand Mediummm sera-t-il accessible ?",
+                    answer: "Pour être informé de la sortie de Mediummm, le mieux reste de renseigner votre adresse mail plus haut sur la page (promis on ne spamme pas)."
+                }
             ]
         }
     }
